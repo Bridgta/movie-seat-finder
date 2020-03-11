@@ -21,7 +21,7 @@ body {
 }
 
 .movie-container select {
-    background-color: #fff;
+    background-color: lightblue;
     border: 0;
     border-radius: 5px;
     font-size: 14px;
@@ -51,7 +51,7 @@ body {
 }
 
 .seat.occupied {
-    background-color: lightskyblue;
+    background-color: steelblue;
 }
 
 .seat:nth-of-type(2) {
